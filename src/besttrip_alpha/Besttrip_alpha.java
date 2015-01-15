@@ -19,6 +19,7 @@ public class Besttrip_alpha {
         // TODO code application logic here
         System.out.println("Hello Louled!");
         System.out.println("Hello!");
+        System.out.println("3asléma");
     }
     
 }
